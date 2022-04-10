@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Opportunities
+title: Research Supervision
 ---
 
 # Current Student Supervision
@@ -13,7 +13,7 @@ Professor Poulin supervises both graduate and undergraduate researchers and is c
 - Indy Ng, Undergraduate Researcher
 - Jonathan Befekadu, Undergraduate Researcher 
 
-# Research Possibilities
+# Future Student Research Possibilities
 
 If you are interested in joining this group please email <francis.poulin@uwaterloo.ca>.  
 
