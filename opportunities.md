@@ -3,7 +3,7 @@ layout: page
 title: Research Opportunities
 ---
 
-# Current Student Supervision:
+# Current Student Supervision
 
 Professor Poulin supervises both graduate and undergraduate researchers and is currently supervising:
 
