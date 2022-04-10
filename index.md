@@ -19,4 +19,5 @@ We use mathematical models to idealize problems in
 * Solar Physics
 * Computational Fluid Dynamics
 * Applied Mathemtaics
+
 A general focus is to study nonlinear processes in a continuum, where common examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.
