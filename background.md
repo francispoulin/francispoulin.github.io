@@ -14,13 +14,13 @@ title: Background
 
 # Academic Background
 * **Full Professor** -- _2018 - Present_, University of Waterloo
-* Associate Professor -- 2011 - 2018, University of Waterloo
-* Visiting LMD Professor -- 2011, Laboratoire Meteorologie Dynamique, Ecole Polytechnique
-* Visiting CIRES Professor -- 2011, University of Colorado at Boulder
-* Assistant Professor -- 2004 - 2011, University of Waterloo
-* Post-doctoral Fellow -- 2003--2004, Scripps Instituion of Oceanography
-* Research Fellow -- 2002-2003, University of St Andrews
-* Post-doctral Fellow -- 2002, EAPS, MIT
-* Ph.D (2002), Mathemtaics, MIT
-* M.Sc. (1997), Mathematics, University of Alberta
-* B.Sc. (1994), Applied Mathematics, University of Alberta
+* **Associate Professor** -- _2011 - 2018_, University of Waterloo
+* **Visiting LMD Professor** -- _2011_, Laboratoire Meteorologie Dynamique, Ecole Polytechnique
+* **Visiting CIRES Professor** -- _2011_, University of Colorado at Boulder
+* **Assistant Professor** -- _2004 - 2011_, University of Waterloo
+* **Post-doctoral Fellow** -- _2003--2004_, Scripps Instituion of Oceanography
+* **Research Fellow** -- _2002-2003_, University of St Andrews
+* **Post-doctral Fellow** -- _2002_, EAPS, MIT
+* **Ph.D** _2002_, Mathemtaics, MIT
+* **M.Sc.** _1997_, Mathematics, University of Alberta
+* **B.Sc.** _1994_, Applied Mathematics, University of Alberta
