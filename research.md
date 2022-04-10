@@ -1,21 +1,23 @@
 ---
 layout: page
-title: Research
+title: Research Areas
 ---
 
-Professor Poulin researches problems in
+# Physical Oceanography
 
-- Physical Oceanography,
-- Biological Oceanography, 
-- Solar Physics, 
-- Computational Fluid Dynamics, and  
-- Applied Matheamtics.  
+# Biological Oceanography 
 
-### Supervision:
+# Solar Physics
+
+# Computational Fluid Dynamics 
+
+# Applied Matheamtics
+
+# Student Supervision:
 
 Professor Poulin supervises both graduate and undergraduate researchers and is currently supervising:
 
-- Reyhane Fadaie, Ph.D
+- Reyhane Fadaie, Ph.D in Applied Mathematics
 - Jonathan Tessier, Masters in Applied Mathematics
 - co-supervising Kevin Siu, Masters in Applied Mathematics
 - Indy Ng, Undergraduate Researcher
