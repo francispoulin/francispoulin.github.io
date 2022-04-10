@@ -5,15 +5,15 @@ title: Background
 
 # Professor Francis J. Poulin
 
-MC 6324 -- Office
-Full Professor -- [Department of Applied Mathematics](https://uwaterloo.ca/applied-mathematics/)
-Cross-appointed -- [Deparatment of Physics and Astronomy](https://uwaterloo.ca/physics-astronomy/)
-Associate Director -- [Interdiscilinary Centre on Climate Change](https://uwaterloo.ca/climate-centre/)
+* MC 6324 -- Office
+* Full Professor -- [Department of Applied Mathematics](https://uwaterloo.ca/applied-mathematics/)
+* Cross-appointed -- [Deparatment of Physics and Astronomy](https://uwaterloo.ca/physics-astronomy/)
+* Associate Director -- [Interdiscilinary Centre on Climate Change](https://uwaterloo.ca/climate-centre/)
 [University of Waterloo](https://uwaterloo.ca/)
-Associate Editor -- [Canadian Journal of Physics](https://cdnsciencepub.com/journal/cjp)
+* Associate Editor -- [Canadian Journal of Physics](https://cdnsciencepub.com/journal/cjp)
 
 # Academic Background
-* Full Professor -- 2018 - Present, University of Water0loo
+* **Full Professor** -- _2018 - Present_, University of Waterloo
 * Associate Professor -- 2011 - 2018, University of Waterloo
 * Visiting LMD Professor -- 2011, Laboratoire Meteorologie Dynamique, Ecole Polytechnique
 * Visiting CIRES Professor -- 2011, University of Colorado at Boulder
