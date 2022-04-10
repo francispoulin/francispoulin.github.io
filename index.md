@@ -4,7 +4,7 @@ title: Poulin Research Group
 subtitle: Professor Francis J. Poulin 
 subtitle2: Professor of Applied Mathematics and Physics and Astronomy
 #cover-img: /assets/img/q-picture-top-only.png
-cover-img: /assets/img/result.jpg
+cover-img: /assets/img/transparent.jpg
 social_media: false
 ---
 
