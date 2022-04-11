@@ -19,6 +19,5 @@ We use mathematical models to idealize problems in
 * Biologcial Oceanography
 * Solar Physics
 * Computational Fluid Dynamics
-* Applied Mathemtaics
 
-A general focus is to study nonlinear processes in a continuum, where common examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.
+A general focus is to study nonlinear processes in a continuum, where common examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.  Look in the research tab to find out more about the research and software.
