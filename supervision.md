@@ -8,7 +8,7 @@ title: Research Supervision
 Professor Poulin supervises both graduate and undergraduate researchers and is currently supervising:
 
 - Reyhane Fadaie, Ph.D in Applied Mathematics
-- Jonathan Tessier, Masters in Applied Mathematics
+- [Jonathan Tessier](https://jonathan-tessier.github.io/), Masters in Applied Mathematics
 - co-supervising Kevin Siu, Masters in Applied Mathematics
 - Indy Ng, Undergraduate Researcher
 - Jonathan Befekadu, Undergraduate Researcher 
