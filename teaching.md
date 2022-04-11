@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Teaching
-subtitle: Courses I am teaching or have taught
+subtitle: Courses taught often
 ---
 
-I teach courses in Applied Mathematics that typically overlap with Physics
+Professor Poulin teaches courses in Applied Mathematics that typically have a lot of Physics
 
 - MATH 137P (Calculus 1, Physics-Based) -- **Fall, 2022**
 - AMATH 231 (Vector Calculus)
@@ -15,7 +15,7 @@ I teach courses in Applied Mathematics that typically overlap with Physics
 - AMATH 463 (Fluid Mechanics)
 - AMATH 900 (Computational Physical Oceanography)
 
-I have lecture notes written for many of these courses.
+Professor Poulin has writtenlecture notes for many of these courses.
 
 ### My Teaching Philosophy
 
