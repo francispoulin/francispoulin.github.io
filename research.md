@@ -9,9 +9,13 @@ The dynamics of the oceans at large scales plays a critical role in the the evol
 
 # Biological Oceanography 
 
-Planktonic ecosystems are at the bottom 
+Planktonic ecosystems are at the bottom of the food chain in the oceans and therefore have a large impact of all the biological orgamisms in the ocean. There are a variety of ways in which they can be modelled: 1) ordinary differential equations (ignore spatial variations), 2) partial differential equations (include spatial variations), 3) include time-delays and 4) include size-spectra.  It's important to understand the reactions terms in the equations and see what kind of dynamics they lead to, before coupling an ecosystem model to an ocean model.  This is something that can easily be done however using Oceananigans.jl (see Reserach/Softare for more information.)
+
 # Solar Physics
+
+The sun is essential to life on Earth, which makes understanding the sun and how it changes much more interesting.  The group has investigated magnetohydodynamics (MHD) in a variety of different theoretical models: three-dimensional MHD, shallow water MHD and quasi-geostrophic MHD. Particular attention has been given to the tachocline in the sun.  Generally, we have tried to understand the dynamics of turbulence, jets and vortices in this region of high shear, in part to better understand how the solar dynamo is generated.
+ 
 
 # Computational Fluid Dynamics 
 
-# Applied Matheamtics
+Computational tools are perhaps the most powerful means through which we can investigate geophysical, biological and astrophyscial fluid dynamics.  There are a variety of different methods that can be used.  The reseach group has used finite volume methods (Oceananigans.jl), Finite Element Methods (Firedrake), spectral methods (SPINS) and of course finite difference methods.  The philosophy of the group is to write code that we can use to study interesting scientific problems, and then share it in a way that other members of the community can also benefit from it.  Please see Researc/Software for more details.
