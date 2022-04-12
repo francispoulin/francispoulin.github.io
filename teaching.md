@@ -20,4 +20,4 @@ Professor Poulin has writtenlecture notes for many of these courses.
 ### Teaching Philosophy
 
 Mathematics can be used to describe many aspects of the world in the language of Calculus.  Many of these courses explore how to describe some aspect
-of the world using a mathematical model and then how to learn about the scientific problem by solving the equations either analytcally or numerically.
+of the world using a mathematical model and then how to learn about the scientific problem by solving the equations either analytically or numerically.
