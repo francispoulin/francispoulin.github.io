@@ -17,7 +17,7 @@ Professor Poulin teaches courses in Applied Mathematics that typically have a lo
 
 Professor Poulin has writtenlecture notes for many of these courses.
 
-### My Teaching Philosophy
+### Teaching Philosophy
 
 Mathematics can be used to describe many aspects of the world in the language of Calculus.  Many of these courses explore how to describe some aspect
 of the world using a mathematical model and then how to learn about the scientific problem by solving the equations either analytcally or numerically.
