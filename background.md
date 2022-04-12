@@ -17,9 +17,9 @@ title: Background
 * **Visiting Professor** -- _2011_, LMD, Ecole Polytechnique
 * **Visiting CIRES Professor** -- _2011_, University of Colorado at Boulder
 * **Assistant Professor** -- _2004 - 2011_, University of Waterloo
-* **Post-doctoral Fellow** -- _2003--2004_, Scripps Instituion of Oceanography
+* **Post-doctoral Fellow** -- _2003--2004_, Scripps Institution of Oceanography
 * **Research Fellow** -- _2002-2003_, University of St Andrews
 * **Post-doctral Fellow** -- _2002_, EAPS, MIT
-* **Ph.D** _2002_, Mathemtaics, MIT
+* **Ph.D** _2002_, Mathematics, MIT
 * **M.Sc.** _1997_, Mathematics, University of Alberta
 * **B.Sc.** _1994_, Applied Mathematics, University of Alberta
