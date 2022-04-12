@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-The group nas used and/or contributed to the following libraries:
+The group has used and/or contributed to the following libraries:
 
 * [Oceananigans.jl](https://clima.github.io/OceananigansDocumentation/stable/): A fast and friendly fluid solver on CPUs and GPUs.
 * [Firedrake](https://www.firedrakeproject.org/): A solver of partial differential equations for the finite element method in python.
