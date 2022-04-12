@@ -8,13 +8,9 @@ cover-img: /assets/img/q-picture-top-only-green.jpg
 social_media: false
 ---
 
-This group consists of Professor Poulin, graduate and undergraduate students 
-in the [Department of Applied Mathematics](https://uwaterloo.ca/applied-mathematics/) 
-or the [Department of Physics and Astronomy](https://uwaterloo.ca/physics-astronomy/) 
-at the [University of Waterloo](https://uwaterloo.ca/). 
-Some of these individuals are part of the [Interdisciplinary Centre on Climate Change](https://uwaterloo.ca/climate-centre/).
+This group consists of Professor Poulin, as well as graduate and undergraduate students. Group members have expertise in developing analytical models to describe aspects of the world and then using numerical software to simulate the solution to this model.  These simulations can be thought of as experiments _in silica_ and are used to determine the limits of the model, but also to make predictions as to what we should expect to observe in reality.  
 
-We use mathematical models to idealize problems in 
+Areas of expertise of this group include: 
 * Physical Oceanography
 * Biologcial Oceanography
 * Solar Physics
