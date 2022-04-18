@@ -6,7 +6,7 @@ subtitle: Courses taught often
 
 Professor Poulin teaches courses in Applied Mathematics that typically have a lot of Physics
 
-- MATH 137P (Calculus 1, Physics-Based) -- **Fall, 2022**
+- MATH 137P (Calculus 1, Physics-Based) -- **Fall, 2021 + Fall, 2022**
 - AMATH 231 (Vector Calculus)
 - AMATH 271 (Theoretical Mechanics) -- **Fall, 2022**
 - AMATH 351 (Ordinary Differential Equations 1)
@@ -15,7 +15,7 @@ Professor Poulin teaches courses in Applied Mathematics that typically have a lo
 - AMATH 463 (Fluid Mechanics)
 - AMATH 900 (Computational Physical Oceanography)
 
-Professor Poulin has writtenlecture notes for many of these courses.
+Professor Poulin has written lecture notes for many of these courses.
 
 ### Teaching Philosophy
 
