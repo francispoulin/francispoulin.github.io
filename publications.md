@@ -58,6 +58,21 @@ D.A.A. Taniguchi, P.J.S. Franks, **F.J. Poulin**, (2014), Planktonic biomass siz
 ## 2012
 T. Rees, K.G. Lamb, **F.J. Poulin**, (2012), Asymptotic Analysis of the Forced Internal Gravity Wave Equation, _SIAM Journal on Applied Mathematics_, **72 (4)**.                   
 
+A. Baglaenko, M. Stastna, D.T. Steinmoeller, **F.J. Poulin**, (2012), The effects of the spatial distribution of bottom topography and bottom drag on seiche-induced wave train formation, _Water Quality Research Journal of Canada_, **47 (3-4)**.
+
+## 2011
+
+M. Scott, **F.J. Poulin**, H. Tang, (2011), Approximating intrinsic noise in continuous multispecies models, _Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences_, **467**. 
+
+X. Carton, **F.J. Poulin**, M. Pavec, Marc, (2011), Linear baroclinic and parametric instabilities of boundary currents, _Geophysical & Astrophysical Fluid Dynamics_, **105 (4-5)*.
+
+D.T. Steinmoeller, S.J.D. D’Alessio, **F.J. Poulin**, (2011), Prograde and retrograde flow past cylindrical obstacles on a β-plane, _Acta mechanica_, **217 (1) **.
+
+M. Stastna, **F.J. Poulin**, C. Subich, J.V. Mecking, (2011), The effect of stochastic perturbations on plankton transport by internal solitary waves, _Nonlinear Processes in Geophysics_, **18 (6)**.
+
+**F.J. Poulin**, P.J.S. Franks, (2010), Size-structured planktonic ecosystems: constraints, controls and assembly instructions, _Journal of plankton research_, **32 (8)**.                       
+
+
 
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
