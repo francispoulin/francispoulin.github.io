@@ -7,10 +7,17 @@ title: Publications - Francis J. Poulin
 
 See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
-# 2021
+## 2021
 
-Tessier, J, Castro-Folker, N, Poulin, FJ, Stastna, M. (2021), Anisotropy in Faraday instabilities of a shallow conducting fluid. _EPL (Europhysics Letters)_, **135**. 
+J. Tessier, N. Castro-Folker, **F.J. Poulin**, M. Stastna, (2021), Anisotropy in Faraday instabilities of a shallow conducting fluid. _EPL (Europhysics Letters)_, **135 (3)**. 
 
+Y. Tao, S. Campbell, **F.J. Poulin**, (2021), Dynamics of a Diffusive Nutrient-Phytoplankton-Zooplankton Model with Spatio-temporal Delay. _SIAM Journal on Applied Mathematics_, **81 (3)**.
+
+## 2020
+
+M.W. Harris, **F.J. Poulin**, K.G. Lamb, The instability of vertically curved fronts in a two-layer shallow water model. _Physics of Fluids_ **32 (12)**.  
+
+|
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
 | "Tessier, J; Castro-Folker, N; Poulin, FJ; Stastna, M; "                                  | Anisotropy in Faraday instabilities of a shallow conducting fluid                                                                                       | EPL (Europhysics Letters)                                                                               | 135    | 3      | 34001     | 2021 | IOP Publishing                                 |
