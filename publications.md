@@ -25,8 +25,19 @@ A. Grace, M. Stastna, **F.J. Poulin**, (2019), Numerical simulations of the shea
 
 M. Magill, A. Coutino, B.A. Storer, M. Stastna, **F.J. Poulin**, Dynamics of nonlinear Alfvén waves in the shallow water magnetohydrodynamic equations, _ Physical Review Fluids_, **4 (5)**. 
 
-B.A. Storer, **F.J. Poulin**, C. Ménesguen, The dynamics of quasigeostrophic lens-shaped vortices, _Journal of Physical Oceanography_, **48 (4)**.                      
-|
+## 2018
+
+B.A. Storer, **F.J. Poulin**, C. Ménesguen, (2018), The dynamics of quasigeostrophic lens-shaped vortices, _Journal of Physical Oceanography_, **48 (4)**.     
+
+**F.J. Poulin**, A. Borissov, B.A. Storer, M. Stastna, (2018), A shallow water model of the solar tachocline: A numerical approach to determine wave structure, _Dyn. Contin. Discrete Impuls. Syst. Ser. B Appl. Alg_, **25**. 
+
+## 2016
+
+M. Kloosterman, S. Campbell, **F. J. Poulin**, (2016), An NPZ model with state-dependent delay due to size-structure in juvenile zooplankton, _SIAM Journal on Applied Mathematics_, **76 (2)**.
+
+R. Duarte, X. Carton, **F.J. Poulin**, (2016), The dynamics of a meandering coastal jet in the lee of a cape, _Regular and Chaotic Dynamics_, **21 (3)**.
+
+
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
 | "Tessier, J; Castro-Folker, N; Poulin, FJ; Stastna, M; "                                  | Anisotropy in Faraday instabilities of a shallow conducting fluid                                                                                       | EPL (Europhysics Letters)                                                                               | 135    | 3      | 34001     | 2021 | IOP Publishing                                 |
