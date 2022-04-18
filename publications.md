@@ -15,8 +15,17 @@ Y. Tao, S. Campbell, **F.J. Poulin**, (2021), Dynamics of a Diffusive Nutrient-P
 
 ## 2020
 
-M.W. Harris, **F.J. Poulin**, K.G. Lamb, The instability of vertically curved fronts in a two-layer shallow water model. _Physics of Fluids_ **32 (12)**.  
+M.W. Harris, **F.J. Poulin**, K.G. Lamb, (2020), The instability of vertically curved fronts in a two-layer shallow water model. _Physics of Fluids_, **32 (12)**.  
 
+## 2019
+
+G. Badin, **F.J. Poulin**, (2019), Asymptotic scale-dependent stability of surface quasi-geostrophic vortices: semi-analytic results. _Geophysical & Astrophysical Fluid Dynamics_, **113 (5-6)**. 
+
+A. Grace, M. Stastna, **F.J. Poulin**, (2019), Numerical simulations of the shear instability and subsequent degeneration of basin scale internal standing waves, _Physical Review Fluids_, **48 (4)**.
+
+M. Magill, A. Coutino, B.A. Storer, M. Stastna, **F.J. Poulin**, Dynamics of nonlinear Alfvén waves in the shallow water magnetohydrodynamic equations, _ Physical Review Fluids_, **4 (5)**. 
+
+B.A. Storer, **F.J. Poulin**, C. Ménesguen, The dynamics of quasigeostrophic lens-shaped vortices, _Journal of Physical Oceanography_, **48 (4)**.                      
 |
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
