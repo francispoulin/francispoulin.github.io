@@ -70,6 +70,8 @@ D.T. Steinmoeller, S.J.D. D’Alessio, **F.J. Poulin**, (2011), Prograde and ret
 
 M. Stastna, **F.J. Poulin**, C. Subich, J.V. Mecking, (2011), The effect of stochastic perturbations on plankton transport by internal solitary waves, _Nonlinear Processes in Geophysics_, **18 (6)**.
 
+## 2010
+
 **F.J. Poulin**, P.J.S. Franks, (2010), Size-structured planktonic ecosystems: constraints, controls and assembly instructions, _Journal of plankton research_, **32 (8)**.                       
 
 
