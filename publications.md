@@ -37,6 +37,27 @@ M. Kloosterman, S. Campbell, **F. J. Poulin**, (2016), An NPZ model with state-d
 
 R. Duarte, X. Carton, **F.J. Poulin**, (2016), The dynamics of a meandering coastal jet in the lee of a cape, _Regular and Chaotic Dynamics_, **21 (3)**.
 
+## 2015
+
+M. Chanona, **F.J. Poulin**, J. Yawney, (2015), The stability of oceanic fronts in a shallow water model, _Journal of Fluid Mechanics_, **785**.
+
+E. Bembenek, **F.J. Poulin**, M. Waite, (2015), Realizing surface-driven flows in the primitive equations, _Journal of Physical Oceanography_, **45 (5)**.
+
+## 2014
+
+M. Kloosterman, S. Campbell, **F.J. Poulin**, (2014), A closed NPZ model with delayed nutrient recycling, _Journal of mathematical biology_, **68 (4)**.
+
+**F.J. Poulin**, A. Stegner, M. Hernández-Arencibia, A. Marrero-Díaz, P. Sangrà, (2014), Steep shelf stabilization of the coastal Bransfield Current: Linear stability analysis, _Journal of physical oceanography_, **44 (2)**. 
+
+M. Stastna, **F.J. Poulin**, (2014), The stochastic mode of the Faraday instability of shallow fluid layers, _EPL (Europhysics Letters)_, **106 (4)**.
+
+R.L. Irwin, **F.J. Poulin**, (2014), The influence of stratification on the instabilities in an idealized two-layer ocean model, _Journal of Physical Oceanography_, **44 (10)**.
+
+D.A.A. Taniguchi, P.J.S. Franks, **F.J. Poulin**, (2014), Planktonic biomass size spectra: an emergent property of size-dependent physiological rates, food web dynamics, and nutrient regimes, _Marine Ecology Progress Series_, **514**.
+
+## 2012
+T. Rees, K.G. Lamb, **F.J. Poulin**, (2012), Asymptotic Analysis of the Forced Internal Gravity Wave Equation, _SIAM Journal on Applied Mathematics_, **72 (4)**.                   
+
 
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
