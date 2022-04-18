@@ -7,6 +7,10 @@ title: Publications - Francis J. Poulin
 
 See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
+# 2021
+
+Tessier, J, Castro-Folker, N, Poulin, FJ, Stastna, M. (2021), Anisotropy in Faraday instabilities of a shallow conducting fluid. _EPL (Europhysics Letters)_, **135**. 
+
 | Authors                                                                                   | Title                                                                                                                                                   | Publication                                                                                             | Volume | Number | Pages     | Year | Publisher                                      |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------|--------|-----------|------|------------------------------------------------|
 | "Tessier, J; Castro-Folker, N; Poulin, FJ; Stastna, M; "                                  | Anisotropy in Faraday instabilities of a shallow conducting fluid                                                                                       | EPL (Europhysics Letters)                                                                               | 135    | 3      | 34001     | 2021 | IOP Publishing                                 |
