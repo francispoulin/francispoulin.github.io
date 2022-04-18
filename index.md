@@ -12,8 +12,8 @@ This group consists of Professor Poulin, as well as graduate and undergraduate s
 
 Areas of expertise of this group include: 
 * Physical Oceanography
-* Biologcial Oceanography
+* Biological Oceanography
 * Solar Physics
 * Computational Fluid Dynamics
 
-A general focus is to study nonlinear processes in a continuum, where common examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.  Look in the research tab to find out more about the research and software.
+A focus is to study nonlinear processes in a fluid dynamics, important examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.  Look in the research tab to find out more about the research and software.
