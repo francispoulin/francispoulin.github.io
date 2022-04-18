@@ -9,15 +9,16 @@ Professor Poulin supervises both graduate and undergraduate researchers and is c
 
 - Reyhane Fadaie, Ph.D in Applied Mathematics
 - [Jonathan Tessier](https://jonathan-tessier.github.io/), Masters in Applied Mathematics
-- co-supervising Kevin Siu, Masters in Applied Mathematics
+- Kevin Siu (co-supervising), Masters in Applied Mathematics
 - Indy Ng, Undergraduate Researcher
 - Jonathan Befekadu, Undergraduate Researcher 
+- Jakob Braga (co-supervising), Undergraduate Researcher 
 
-# Future Student Research Possibilities
+# Future Research Possibilities
 
 If you are interested in joining this group please email <francis.poulin@uwaterloo.ca>.  
 
-Possibilities could be through the following:
+Possibilities could be through the following programs:
 
 * Undergraduate Student Research Assistantships ([USRA](https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities))
 * Mathematics Undergraduate Research Award ([MURA](https://uwaterloo.ca/math/research/research-information-students/mathematics-undergraduate-research-award-mura))
