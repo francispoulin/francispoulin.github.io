@@ -7,6 +7,10 @@ title: Publications - Francis J. Poulin
 
 See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
+## Submtted for publication
+
+N.K-R. Kevlahan, **F.J. Poulin**, (2022), Energy Spectra and Vorticity Dynamics in Two-Layer Shallow Water Ocean Model, _Journal of Physical Oceanography_.
+
 ## 2021
 
 J. Tessier, N. Castro-Folker, **F.J. Poulin**, M. Stastna, (2021), Anisotropy in Faraday instabilities of a shallow conducting fluid. _EPL (Europhysics Letters)_, **135 (3)**. 
