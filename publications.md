@@ -7,7 +7,7 @@ title: Publications - Francis J. Poulin
 
 See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
-## Submtted for publication
+## Submitted for publication in 2022
 
 N.K-R. Kevlahan, **F.J. Poulin**, (2022), Energy Spectra and Vorticity Dynamics in Two-Layer Shallow Water Ocean Model, _Journal of Physical Oceanography_.
 
