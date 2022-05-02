@@ -17,3 +17,17 @@ Areas of expertise of this group include:
 * Computational Fluid Dynamics
 
 A focus is to study nonlinear processes in a fluid dynamics, important examples are jets and vortices. An active area of research is to further develop software to facilitate research in these areas.  Look in the research tab to find out more about the research and software.
+
+# News
+
+## May
+
+* Jonathan Befekadu -- Starts _NSERC USRA_ position for the spring semester.
+
+* Jakob Braga -- Starts _NSERC USRA_ position for the spring semester.
+
+* Indy Ng -- Starts _MURA_ position for the spring semester.
+
+* Jonathan Tessier -- Awarded _NSERC CGS-D_.
+
+* Francis Poulin -- _IOP Outstanding Reviewer Awards 2021_ for and [European Journal of Physics](https://iopscience.iop.org/journal/0143-0807), and [Physical Biology](https://iopscience.iop.org/journal/1478-3975). 
