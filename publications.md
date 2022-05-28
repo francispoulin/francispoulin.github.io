@@ -9,6 +9,8 @@ See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5g
 
 ## Submitted for publication in 2022
 
+M.W. Harris, **F.J. Poulin**, K.G. Lamb, (2022), Inertial instabilities of stratified jets: Linear stability theory, _Physics of Fluids_.
+
 N.K-R. Kevlahan, **F.J. Poulin**, (2022), Energy Spectra and Vorticity Dynamics in Two-Layer Shallow Water Ocean Model, _Journal of Physical Oceanography_.
 
 ## 2021
