@@ -22,6 +22,7 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 ## May, 2022
 
+* Manuscript submitted to the _Physics of Fluids_ by **Harris, Poulin and Lamb**.
 * Jonathan Befekadu -- Starts _NSERC USRA_ position for the spring semester.
 * Jakob Braga -- Starts _NSERC USRA_ position for the spring semester.
 * Indy Ng -- Starts _MURA_ position for the spring semester.
