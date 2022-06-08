@@ -20,9 +20,15 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 # News
 
-## May, 2022
+## June, 2022
 
 * Manuscript submitted to the _Physics of Fluids_ by **Harris, Poulin and Lamb**.
+* Manuscript submitted to the _Journal of Physical Oceanography_ by **Kevlahan and Poulin** accepted with minor revisions.
+* Jonathan Tessier and Francis Poulin presented talks at CMOS Congress 2022.
+
+## May, 2022
+
+* Jonathan Tessier presented a talk at the EGU General Assembly 2022.
 * Jonathan Befekadu -- Starts _NSERC USRA_ position for the spring semester.
 * Jakob Braga -- Starts _NSERC USRA_ position for the spring semester.
 * Indy Ng -- Starts _MURA_ position for the spring semester.
