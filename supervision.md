@@ -26,3 +26,16 @@ Possibilities could be through the following programs:
 * [Graduate Studies in Physics and Astronomy](https://uwaterloo.ca/physics-astronomy/graduate-studies)
 * [Graduate Studies in Computational Mathematics](https://uwaterloo.ca/computational-mathematics/future-masters-students)
 * Co-op work term.
+
+# Past Student Supervision
+
+*  Lei Jia, co-supervised with Marek Stastana.
+* [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), co-supervised with Zoran Miskovic.
+* [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), co-supervised with Marek Stastna.
+* [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), co-supervised with Marek Stastna.
+* [Mihai Nica](https://www.linkedin.com/in/mihai-nica-61ab3544/) 
+* [Kris Rowe, Ph.D.](https://www.linkedin.com/in/kris-rowe/), co-supervised with Marek Stastna.
+* [Nancy Soontiens, Ph.D.](https://www.linkedin.com/in/nancy-soontiens-21819652/), co-supervised with Marek Stastna.
+* [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), co-supervised with Marek Stastna.
+* [Kevin Whyte](https://www.linkedin.com/in/kevin-whyte-56560a47/)
+* 
