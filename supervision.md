@@ -29,18 +29,38 @@ Possibilities could be through the following programs:
 
 # Past Student Supervision
 
+* [Anton Baglaenko](), _Masters Student_, co-supervised with Marek Stastna.
+* [Eric Bembenek, Ph.D.](https://www.linkedin.com/in/eric-bembenek/), _Masters Student_, co-supervised with Michael Waite.
 * [Alexei Borrisov, Ph.D.](https://www.researchgate.net/profile/Alexei-Borissov), _Undergraduate Researcher_.
+* [Laura Chandler, M. Math](https://www.linkedin.com/in/lrc23/), _Undergraduate Researcher_.
+* [Melanie Chanona, Ph.D.](https://www.linkedin.com/in/melchanona/), _Undergraduate Researcher_.
 * Michelle Deboer, _Undergraduate Researcher_.
+* [Keegan Cove](https://www.linkedin.com/in/keegan-cove/), _Undergraduate Researcher_.
+* [Hugo Girardon](https://www.linkedin.com/in/hugo-girardon-71b496143/), _Undergraduate Researcher_.
 * [Wesley Greig](https://www.linkedin.com/in/wesley-greig-03a70ba3/?originalSubdomain=ca), _Undergraduate Researcher_.
 * Lei Jia, _Undergraduate Researcher_, co-supervised with Marek Stastana.
+* [Matthew Harris, Ph.D.](https://www.linkedin.com/in/matthew-harris-a9bb20a6/), _Ph.D. Student_.
+* [Robbie Irwin, M. Math](https://www.linkedin.com/in/irwinrobert/), _Masters Student_.
+* [Christine Kaufhold, M.Sc.](), _Undergraduate Researcher_. 
+* [Thibaut Lars](https://www.linkedin.com/in/thibaut-lars-a0721b159/), _Undergraduate Researcher_.
 * [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), _Undergraduate Researcher_, co-supervised with Zoran Miskovic.
+* Matthew Kloosterman, _Ph.D. Student_, co-supervised with Sue Ann Campbell.
+* [Adam Morgan, M. Math](https://www.math.toronto.edu/cms/people/students/graduate/morgan-adam/), _Masters Student_.
 * [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Mihai Nica, Ph.D.](https://www.linkedin.com/in/mihai-nica-61ab3544/), _Undergraduate Researcher_. 
 * [Charlie Payne](https://www.linkedin.com/in/cgpayne/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Nicole Pitre](https://www.linkedin.com/in/nicole-pitre/), _Undergraduate Researcher_.
+* [Timothy Rees, Ph.D.](https://www.linkedin.com/in/tim-rees-6b69213/), _Ph.D. Student_, co-supervised with Kevin Lamb.
 * [Kris Rowe, Ph.D.](https://www.linkedin.com/in/kris-rowe/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Matthew Sartori](https://www.linkedin.com/in/matthew-sartori/), _Undergraduate Researcher_.
+* [Liza Sazonva](https://www.linkedin.com/in/esazonova/), _Undergraduate Researcher_.
 * [Nancy Soontiens, Ph.D.](https://www.linkedin.com/in/nancy-soontiens-21819652/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Dakota St Laurent](https://www.linkedin.com/in/dakotastlaurent/), _Undergraduate Researcher_.
+* [Derek Steinmoeller, Ph.D.](https://www.linkedin.com/in/derek-steinmoeller-51957a53/), _Masters Student_, co-supervised with Serge D'Alessio.
+* [Benjamin Storer, Ph.D.](https://www.linkedin.com/in/benjamin-storer-46700483/), _Undergraduate Researcher_ and _Ph.D Student_. 
 * [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), _Undergraduate Researcher_, co-supervised with Marek Stastna.
-* [Kevin Whyte](https://www.linkedin.com/in/kevin-whyte-56560a47/)
-* Yiyang Wu, , _Undergraduate Researcher_.
+* [Kimberly Usi](https://www.linkedin.com/in/kimusi/), _Undergraduate Researcher_.
+* [Kevin Whyte](https://www.linkedin.com/in/kevin-whyte-56560a47/), _Undergraduate Researcher_.
+* Yiyang Wu, _Undergraduate Researcher_.
+* [John Yawney, Ph.D.](https://www.linkedin.com/in/jwyawney/), _Ph.D. Student_.
