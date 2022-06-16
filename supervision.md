@@ -29,7 +29,7 @@ Possibilities could be through the following programs:
 
 # Past Student Supervision
 
-* [Aaron Baier-Reinio, Ph.D.](https://www.linkedin.com/in/aaron-baier-reinio-831a83132/), _Undergraduate Student_ (with Marek Stastna).
+* [Aaron Baier-Reinio](https://www.linkedin.com/in/aaron-baier-reinio-831a83132/), _Undergraduate Student_ (with Sander Rhebergen).
 * [Anton Baglaenko](), _Masters Student_ (with Marek Stastna).
 * [Eric Bembenek, Ph.D.](https://www.linkedin.com/in/eric-bembenek/), _Masters Student_ (with Michael Waite).
 * [Alexei Borrisov, Ph.D.](https://www.researchgate.net/profile/Alexei-Borissov), _Undergraduate Researcher_.
