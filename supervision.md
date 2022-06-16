@@ -29,13 +29,18 @@ Possibilities could be through the following programs:
 
 # Past Student Supervision
 
-*  Lei Jia, co-supervised with Marek Stastana.
-* [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), co-supervised with Zoran Miskovic.
-* [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), co-supervised with Marek Stastna.
-* [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), co-supervised with Marek Stastna.
-* [Mihai Nica](https://www.linkedin.com/in/mihai-nica-61ab3544/) 
-* [Kris Rowe, Ph.D.](https://www.linkedin.com/in/kris-rowe/), co-supervised with Marek Stastna.
-* [Nancy Soontiens, Ph.D.](https://www.linkedin.com/in/nancy-soontiens-21819652/), co-supervised with Marek Stastna.
-* [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), co-supervised with Marek Stastna.
+* [Alexei Borrisov, Ph.D.](https://www.researchgate.net/profile/Alexei-Borissov), _Undergraduate Researcher_.
+* Michelle Deboer, _Undergraduate Researcher_.
+* [Wesley Greig](https://www.linkedin.com/in/wesley-greig-03a70ba3/?originalSubdomain=ca), _Undergraduate Researcher_.
+* Lei Jia, _Undergraduate Researcher_, co-supervised with Marek Stastana.
+* [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), _Undergraduate Researcher_, co-supervised with Zoran Miskovic.
+* [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Mihai Nica, Ph.D.](https://www.linkedin.com/in/mihai-nica-61ab3544/), _Undergraduate Researcher_. 
+* [Charlie Payne](https://www.linkedin.com/in/cgpayne/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Kris Rowe, Ph.D.](https://www.linkedin.com/in/kris-rowe/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Matthew Sartori](https://www.linkedin.com/in/matthew-sartori/), _Undergraduate Researcher_.
+* [Nancy Soontiens, Ph.D.](https://www.linkedin.com/in/nancy-soontiens-21819652/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Kevin Whyte](https://www.linkedin.com/in/kevin-whyte-56560a47/)
-* 
+* Yiyang Wu, , _Undergraduate Researcher_.
