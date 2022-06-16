@@ -34,20 +34,20 @@ Possibilities could be through the following programs:
 * [Alexei Borrisov, Ph.D.](https://www.researchgate.net/profile/Alexei-Borissov), _Undergraduate Researcher_.
 * [Laura Chandler, M. Math](https://www.linkedin.com/in/lrc23/), _Undergraduate Researcher_.
 * [Melanie Chanona, Ph.D.](https://www.linkedin.com/in/melchanona/), _Undergraduate Researcher_.
-* Michelle Deboer, _Undergraduate Researcher_.
 * [Keegan Cove](https://www.linkedin.com/in/keegan-cove/), _Undergraduate Researcher_.
+* Michelle Deboer, _Undergraduate Researcher_.
 * [Hugo Girardon](https://www.linkedin.com/in/hugo-girardon-71b496143/), _Undergraduate Researcher_.
 * [Wesley Greig](https://www.linkedin.com/in/wesley-greig-03a70ba3/?originalSubdomain=ca), _Undergraduate Researcher_.
-* Lei Jia, _Undergraduate Researcher_, co-supervised with Marek Stastana.
 * [Matthew Harris, Ph.D.](https://www.linkedin.com/in/matthew-harris-a9bb20a6/), _Ph.D. Student_.
 * [Robbie Irwin, M. Math](https://www.linkedin.com/in/irwinrobert/), _Masters Student_.
-* [Christine Kaufhold, M.Sc.](), _Undergraduate Researcher_. 
+* Lei Jia, _Undergraduate Researcher_, co-supervised with Marek Stastana.
 * [Thibaut Lars](https://www.linkedin.com/in/thibaut-lars-a0721b159/), _Undergraduate Researcher_.
+* [Christine Kaufhold, M.Sc.](), _Undergraduate Researcher_. 
 * [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), _Undergraduate Researcher_, co-supervised with Zoran Miskovic.
 * Matthew Kloosterman, _Ph.D. Student_, co-supervised with Sue Ann Campbell.
-* [Adam Morgan, M. Math](https://www.math.toronto.edu/cms/people/students/graduate/morgan-adam/), _Masters Student_.
 * [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
+* [Adam Morgan, M. Math](https://www.math.toronto.edu/cms/people/students/graduate/morgan-adam/), _Masters Student_.
 * [Mihai Nica, Ph.D.](https://www.linkedin.com/in/mihai-nica-61ab3544/), _Undergraduate Researcher_. 
 * [Charlie Payne](https://www.linkedin.com/in/cgpayne/), _Undergraduate Researcher_, co-supervised with Marek Stastna.
 * [Nicole Pitre](https://www.linkedin.com/in/nicole-pitre/), _Undergraduate Researcher_.
