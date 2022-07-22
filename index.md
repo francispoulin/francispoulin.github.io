@@ -25,6 +25,7 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 * Jonathan Tessier successfully defends his Masters in Mathematics thesis entitled "Jets, Vortices and Turbulence in Quasi-Geostrophic Magnetohydrodynamics".
 * Manuscript submitted to the _Journal of Physical Oceanography_ by **Kevlahan and Poulin** accepted.
 * Manuscript submitted to the _Physics of Fluids_ by **Harris, Poulin and Lamb** accepted.
+
 ## June, 2022
 
 * Francis Poulin attends [Whither the Gulf Stream Workshop](https://usclivar.org/meetings/gulf-stream-workshop)
