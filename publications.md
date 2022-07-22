@@ -7,7 +7,7 @@ title: Publications - Francis J. Poulin
 
 See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
-## Submitted for publication in 2022
+## 2022
 
 M.W. Harris, **F.J. Poulin**, K.G. Lamb, (2022), Inertial instabilities of stratified jets: Linear stability theory, _Physics of Fluids_.
 
