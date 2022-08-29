@@ -5,7 +5,7 @@ title: Publications - Francis J. Poulin
 
 # Publications
 
-See also my [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
+See also the [Google Scholar page](https://scholar.google.ca/citations?user=EFm5gG4AAAAJ&hl=en){:target="_blank"}.
 
 ## 2022
 
