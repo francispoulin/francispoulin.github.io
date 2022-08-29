@@ -9,7 +9,7 @@ The dynamics of the oceans at large scales play a critical role in the the evolu
 
 # Biological Oceanography 
 
-Planktonic ecosystems are at the bottom of the food chain in the oceans and therefore have a large impact of all the biological organisms in the ocean. There are a variety of ways in which they can be modelled: 1) ordinary differential equations (ignore spatial variations), 2) partial differential equations (include spatial variations), 3) delay differential equations (include time-delays) and 4) partial differential equations (include size-spectra).  It's important to understand the reactions terms in the equations and see what kind of dynamics they can generate before coupling an ecosystem model to an ocean model.  This is something that can easily be done however using Oceananigans.jl (see Reserach/Software for more information.)
+Planktonic ecosystems are at the bottom of the food chain in the oceans and therefore have a large impact of all the biological organisms in the ocean. There are a variety of ways in which they can be modelled: 1) ordinary differential equations (ignore spatial variations), 2) partial differential equations (include spatial variations), 3) delay differential equations (include time-delays) and 4) partial differential equations (include size-spectra).  It's important to understand the reactions terms in the equations and see what kind of dynamics they can generate before coupling an ecosystem model to an ocean model.  This is something that can easily be done using Oceananigans.jl (see Research/Software for more information.)
 
 # Solar Physics
 
