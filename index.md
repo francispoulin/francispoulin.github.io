@@ -21,7 +21,7 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 # News
 
 ## January, 2023
-* Matheus Azevedo starts his post-doctoral fellowship (co-supervised with Kevin Lamb). Partly funded by the Fields Institute.
+* Matheus Azevedo starts his post-doctoral fellowship (co-supervised with Kevin Lamb). Partly funded by the [Fields Institute](http://www.fields.utoronto.ca/honours-and-fellowships/postdoctoral-fellowships).
 
 ## September, 2022
 * Jinghan Yu starts her Masters in Computational Mathematics
