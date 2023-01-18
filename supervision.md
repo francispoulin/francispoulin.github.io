@@ -8,7 +8,8 @@ title: Research Supervision
 Professor Poulin supervises both graduate and undergraduate researchers and is currently supervising:
 
 - Reyhane Fadaie, Ph.D. in Applied Mathematics
-- Kevin Siu (co-supervising), Masters in Applied Mathematics
+- Jinghan Yu, Masters in Computational Mathematics
+- Matheus Azevedo, Post-docoral Fellow (co-supervised with Kevin Lamb)
 
 # Future Research Possibilities
 
