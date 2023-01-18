@@ -20,6 +20,12 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 # News
 
+## January, 2023
+* Matheus Azevedo starts his post-doctoral fellowship (co-supervised with Kevin Lamb). Partly funded by the Fields Institute.
+
+## September, 2022
+* Jinghan Yu starts her Masters in Computational Mathematics
+
 ## July, 2022
 
 * Jonathan Tessier successfully defends his Masters in Mathematics thesis entitled "Jets, Vortices and Turbulence in Quasi-Geostrophic Magnetohydrodynamics".
