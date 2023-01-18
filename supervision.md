@@ -5,7 +5,7 @@ title: Research Supervision
 
 # Current Student Supervision
 
-Professor Poulin supervises both graduate and undergraduate researchers and is currently supervising:
+Professor Poulin is currently supervising:
 
 - Reyhane Fadaie, Ph.D. in Applied Mathematics
 - Jinghan Yu, Masters in Computational Mathematics
