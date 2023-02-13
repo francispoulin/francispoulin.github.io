@@ -20,6 +20,9 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 # News
 
+## February, 2023
+* Francis Poulin gives a Physics 10 Seminar February 10th on [The Physics of the Oceans](Phys 10_ IN PERSON AT RCH 101 11_30-12_20-20230210_113245-Meeting Recording.mp4).
+* 
 ## January, 2023
 * Matheus Azevedo starts his post-doctoral fellowship (co-supervised with Kevin Lamb). Partly funded by the [Fields Institute](http://www.fields.utoronto.ca/honours-and-fellowships/postdoctoral-fellowships).
 
