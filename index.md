@@ -31,7 +31,7 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 ## March, 2023
 * Francis Poulin attended The Changing Beaufort Gyre Workshop at WHOI.
-* 
+ 
 ## February, 2023
 * Francis Poulin gives a Physics 10 Seminar February 10th on [The Physics of the Oceans](https://www.youtube.com/watch?v=bBICoV7EZVs).
 
