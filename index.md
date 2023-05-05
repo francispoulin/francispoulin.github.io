@@ -20,9 +20,20 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 # News
 
+## May, 2023
+* Rosalie Cormier starts her NSERC USRA research on the Beaufort Gyre.
+* Meixin Zhou starts her MURA researc on the Gulf Stream.
+* Sarah Moser starts her NSERC USRA researc on the mathematics of music.
+
+## April, 2023
+* Francis Poulin presented a talk called [The Stability of an Asymmetric Slice of the Gulf Stream](https://meetingorganizer.copernicus.org/EGU23/EGU23-10130.html) at the EGU General Assymbly 2023.
+* Francis Poulin with many others submitted a Letter of Intent for the NSERC CREATE grant.
+
+## March, 2023
+* Francis Poulin attended The Changing Beaufort Gyre Workshop at WHOI.
 ## February, 2023
 * Francis Poulin gives a Physics 10 Seminar February 10th on [The Physics of the Oceans](https://www.youtube.com/watch?v=bBICoV7EZVs).
-* 
+
 ## January, 2023
 * Matheus Azevedo starts his post-doctoral fellowship (co-supervised with Kevin Lamb). Partly funded by the [Fields Institute](http://www.fields.utoronto.ca/honours-and-fellowships/postdoctoral-fellowships).
 
