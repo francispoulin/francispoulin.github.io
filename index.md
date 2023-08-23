@@ -21,8 +21,8 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 # News
 
 ## September, 2023
-* Rosalie Cormier starts her Masters degree in Applied Mathematics.
 * Jakob Braga starts his Masters degree in Applied Mathematics.
+* Rosalie Cormier starts her Masters degree in Applied Mathematics.
 * Xiangyu Xu starts his Masters degree in Applied Mathematics (co-supervised with Sue Ann Campbell).
   
 ## June, 2023
