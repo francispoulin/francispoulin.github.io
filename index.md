@@ -22,7 +22,7 @@ A focus is to study nonlinear processes in a fluid dynamics, important examples 
 
 ## May, 2023
 * Rosalie Cormier starts her NSERC USRA research on the Beaufort Gyre.
-* Sarah Moser starts her NSERC USRA researc on the mathematics of music.
+* Sarah Moser starts their NSERC USRA research on the mathematics of music.
 * Meixin Zhou starts her MURA researc on the Gulf Stream.
 * Francis Poulin gives an invited lecture at the [Fields-WICI Math for Complex Climate Challenges Workshop](http://www.fields.utoronto.ca/activities/22-23/climate-challenges)
 
