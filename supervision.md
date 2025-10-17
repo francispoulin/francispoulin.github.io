@@ -7,10 +7,13 @@ title: Research Supervision
 
 Professor Poulin is currently supervising:
 
-- Reyhane Fadaie, Ph.D. in Applied Mathematics
-- Jinghan Yu, Masters in Computational Mathematics
-- Matheus Azevedo, Post-docoral Fellow (co-supervised with Kevin Lamb)
-
+- Aurore Billant, Visiting student from ENS
+- [Lauren Brown](https://www.linkedin.com/in/laurenbrown-waterloo/), _Undergraduate Researcher_
+- Rosalie Cormier, Ph.D. in Applied Mathematics
+- [Alain Gervais](https://www.linkedin.com/in/alain-gervais-phd-972028219/), _Post-docoral Fellow_ (co-supervised with Marek Stastna)
+- [Rikin Gurditta](https://www.linkedin.com/search/results/all/?keywords=rikin%20gurditta&origin=GLOBAL_SEARCH_HEADER&sid=qZy), _Research Assistant_
+- Xiangye (Shawn) Xu , Masters Student (co-supervised with Sue Ann Campbell)
+  
 # Future Research Possibilities
 
 If you are interested in joining this group please email <francis.poulin@uwaterloo.ca>.  
@@ -26,17 +29,20 @@ Possibilities could be through the following programs:
 
 # Past Student Supervision
 
+* [Matheus Azevedo](https://www.linkedin.com/in/matheus-ferreira-azevedo-242554248/), _Post-docoral Fellow_ (co-supervised with Kevin Lamb)
 * [Aaron Baier-Reinio](https://www.linkedin.com/in/aaron-baier-reinio-831a83132/), _Undergraduate Student_ (with Sander Rhebergen)
 * [Anton Baglaenko](https://www.linkedin.com/in/anton-baglaenko-47a23a76/), _Masters Student_ (with Marek Stastna)
 * Jonathan Befekadu, _Undergraduate Researcher_ 
 * [Eric Bembenek, Ph.D.](https://www.linkedin.com/in/eric-bembenek/), _Masters Student_ (with Michael Waite)
-* [Jakob Braga](https://www.linkedin.com/in/jakob-braga-42b899193/) _Undergraduate Researcher_ (with Kevin Lamb) 
+* [Jakob Braga](https://www.linkedin.com/in/jakob-braga-42b899193/) _Undergraduate Researcher_ and _Masters Student_ (with Michael Waite) 
 * [Alexei Borrisov, Ph.D.](https://www.researchgate.net/profile/Alexei-Borissov), _Undergraduate Researcher_
 * Emilee Carson, _Undergraduate Researcher_ (with Marek Stastna)
 * [Laura Chandler, M. Math](https://www.linkedin.com/in/lrc23/), _Undergraduate Researcher_
 * [Melanie Chanona, Ph.D.](https://www.linkedin.com/in/melchanona/), _Undergraduate Researcher_
 * [Keegan Cove](https://www.linkedin.com/in/keegan-cove/), _Undergraduate Researcher_
 * Michelle Deboer, _Undergraduate Researcher_
+* [Petra Duff](https://www.linkedin.com/in/petraduff/), _Undergraduate Researcher_
+* Reyhane Fadaie, _Ph.D._
 * [Hugo Girardon](https://www.linkedin.com/in/hugo-girardon-71b496143/), _Undergraduate Researcher_
 * [Andrew Grace, M. Math](https://www.linkedin.com/in/andrew-grace-14916610b/), _Masters Student_ (with Marek Stastna)
 * [Wesley Greig](https://www.linkedin.com/in/wesley-greig-03a70ba3/?originalSubdomain=ca), _Undergraduate Researcher_
@@ -50,6 +56,7 @@ Possibilities could be through the following programs:
 * [Maria Khomenko, M.Sc.](https://www.linkedin.com/in/maria-khomenko-303a63211/?originalSubdomain=nz), _Undergraduate Researcher_ (with Zoran Miskovic)
 * Matthew Kloosterman, _Ph.D. Student_ (with Sue Ann Campbell)
 * [Claire Leuty](https://www.linkedin.com/in/claire-leuty/), _Undergraduate Researcher_
+* [Lily Mueller](https://www.linkedin.com/in/lily-mueller/), _Undergraduate Researcher_
 * [Jennifer Meching, Ph.D.](https://www.linkedin.com/in/jennifer-mecking-143a794b/), _Undergraduate Researcher_ (with Marek Stastna)
 * [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), _Undergraduate Researcher_ (with Marek Stastna)
 * [Adam Morgan, M. Math](https://www.math.toronto.edu/cms/people/students/graduate/morgan-adam/), _Masters Student_
@@ -67,10 +74,15 @@ Possibilities could be through the following programs:
 * [Derek Steinmoeller, Ph.D.](https://www.linkedin.com/in/derek-steinmoeller-51957a53/), _Masters Student_ (with Serge D'Alessio)
 * [Benjamin Storer, Ph.D.](https://www.linkedin.com/in/benjamin-storer-46700483/), _Undergraduate Researcher_ and _Ph.D Student_
 * [Jonathan Tessier](https://www.linkedin.com/in/jonathan-tessier/), _Masters Student_
+* Catie Terry, _Undergraduate Researcher_
 * [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), _Undergraduate Researcher_ (with Marek Stastna)
 * [Kimberly Usi](https://www.linkedin.com/in/kimusi/), _Undergraduate Researcher_
 * [Silas Vriend](https://www.linkedin.com/in/silasvriend/), _Undergraduate Researcher_ (with Marek Stastna)
+* [Sara Waghmare](https://www.linkedin.com/in/sara-waghmare-675bb7322/), _High School Researcher_
+* Andrew Watford, _Undergraduate Researcher_
 * [Elizabeth Webb](https://www.linkedin.com/in/lizzwebb/), _Masters Student_
+* [Lukas Weber](https://www.linkedin.com/in/lukaswebereng/), _Undergraduate Researcher_
 * [Kevin Whyte](https://www.linkedin.com/in/kevin-whyte-56560a47/), _Undergraduate Researcher_
 * Yiyang Wu, _Undergraduate Researcher_
 * [John Yawney, Ph.D.](https://www.linkedin.com/in/jwyawney/), _Ph.D. Student_
+* Jinghan Yu, _Masters in Computational Mathematics_
