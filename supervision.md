@@ -74,7 +74,7 @@ Possibilities could be through the following programs:
 * [Derek Steinmoeller, Ph.D.](https://www.linkedin.com/in/derek-steinmoeller-51957a53/), _Masters Student_ (with Serge D'Alessio)
 * [Benjamin Storer, Ph.D.](https://www.linkedin.com/in/benjamin-storer-46700483/), _Undergraduate Researcher_ and _Ph.D Student_
 * [Jonathan Tessier](https://www.linkedin.com/in/jonathan-tessier/), _Masters Student_
-* Catie Terry, _Undergraduate Researcher_
+* [Catie Terry](https://www.linkedin.com/search/results/all/?keywords=catie%20terrey&origin=GLOBAL_SEARCH_HEADER&sid=rSa), _Undergraduate Researcher_
 * [William Thompson, Ph.D.](https://www.linkedin.com/in/wft/?originalSubdomain=ca), _Undergraduate Researcher_ (with Marek Stastna)
 * [Kimberly Usi](https://www.linkedin.com/in/kimusi/), _Undergraduate Researcher_
 * [Silas Vriend](https://www.linkedin.com/in/silasvriend/), _Undergraduate Researcher_ (with Marek Stastna)
