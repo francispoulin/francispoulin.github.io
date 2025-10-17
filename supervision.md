@@ -61,7 +61,7 @@ Possibilities could be through the following programs:
 * [Uliana Melnychenko, M.Sc.](https://www.linkedin.com/in/uliana-melnychenko-msc-1ab70514/), _Undergraduate Researcher_ (with Marek Stastna)
 * [Adam Morgan, M. Math](https://www.math.toronto.edu/cms/people/students/graduate/morgan-adam/), _Masters Student_
 * [Mihai Nica, Ph.D.](https://www.linkedin.com/in/mihai-nica-61ab3544/), _Undergraduate Researcher_
-* Indy Ng, _Undergraduate Researcher_
+* [Indy Ng](https://www.linkedin.com/in/indy-ng/), _Undergraduate Researcher_
 * [Charlie Payne](https://www.linkedin.com/in/cgpayne/), _Undergraduate Researcher_ (with Marek Stastna)
 * [Nicole Pitre](https://www.linkedin.com/in/nicole-pitre/), _Undergraduate Researcher_
 * [Timothy Rees, Ph.D.](https://www.linkedin.com/in/tim-rees-6b69213/), _Ph.D. Student_ (with Kevin Lamb)
