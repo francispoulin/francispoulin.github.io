@@ -2,6 +2,7 @@
 layout: page
 title: Research Supervision
 ---
+Students and post-doctoral fellows who work with me could go on to a wide range of impactful roles. These include academic positions such as Professors and Research Fellows, as well as scientific and technical careers like Research Scientists, Computational Scientists, and Senior Computational Biologists. Many pursue industry roles as Software Developers, Applications Consultants, or Managers of Applied Analytics. Others find opportunities in environmental and policy-related fields, such as Forest Conservation Researchers or Program Managers at organizations like the Atlantic Water Network. Graduates have also taken on leadership and strategic roles, including Director of Credit Infrastructure and AI, and Associate Consultant at firms such as Fluid Mind. This diversity reflects the strong foundation and versatility of the training they receive. 
 
 # Current Student Supervision
 
